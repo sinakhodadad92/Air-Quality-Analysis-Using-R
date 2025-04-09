@@ -1,0 +1,19 @@
+# R-specific
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+
+# RStudio files
+*.Rproj
+.Rproj.user/
+
+# Cache or log files
+*.log
+*.tmp
+
+# OS-specific
+.DS_Store
+Thumbs.db
