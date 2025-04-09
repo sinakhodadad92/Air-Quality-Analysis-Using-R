@@ -1,0 +1,6 @@
+source("01_packages.R")
+source("02_fetch_data.R")
+source("03_clean_data.R")
+source("04_analysis.R")
+source("05_forecasting.R")
+source("06_export.R")
